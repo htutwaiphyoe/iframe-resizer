@@ -1,0 +1,15 @@
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/bin/Debug/net8.0/PrimitiveAndExpression
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/bin/Debug/net8.0/PrimitiveAndExpression.deps.json
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/bin/Debug/net8.0/PrimitiveAndExpression.runtimeconfig.json
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/bin/Debug/net8.0/PrimitiveAndExpression.dll
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/bin/Debug/net8.0/PrimitiveAndExpression.pdb
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.AssemblyInfoInputs.cache
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.AssemblyInfo.cs
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.csproj.CoreCompileInputs.cache
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.sourcelink.json
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.dll
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/refint/PrimitiveAndExpression.dll
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.pdb
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/PrimitiveAndExpression.genruntimeconfig.cache
+/Users/htutwaiphyo/development/learning/mastering-csharp/PrimitiveAndExpression/obj/Debug/net8.0/ref/PrimitiveAndExpression.dll
